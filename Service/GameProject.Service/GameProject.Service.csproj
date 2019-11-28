@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\GameProject.Data\GameProject.Data.csproj" />
+    <ProjectReference Include="..\GameProject.Service.Common\GameProject.Service.Common.csproj" />
+  </ItemGroup>
+
+</Project>

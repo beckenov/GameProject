@@ -1,0 +1,19 @@
+D:\CSharp\GnsGameProject\GnsGameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.csproj.CoreCompileInputs.cache
+D:\CSharp\GnsGameProject\GnsGameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.AssemblyInfoInputs.cache
+D:\CSharp\GnsGameProject\GnsGameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.AssemblyInfo.cs
+D:\CSharp\GameProject\Data\GameProject.Data.Common\bin\Debug\netstandard2.0\GameProject.Data.Common.deps.json
+D:\CSharp\GameProject\Data\GameProject.Data.Common\bin\Debug\netstandard2.0\GameProject.Data.Common.dll
+D:\CSharp\GameProject\Data\GameProject.Data.Common\bin\Debug\netstandard2.0\GameProject.Data.Common.pdb
+D:\CSharp\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.csproj.CoreCompileInputs.cache
+D:\CSharp\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.AssemblyInfoInputs.cache
+D:\CSharp\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.AssemblyInfo.cs
+D:\CSharp\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.dll
+D:\CSharp\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\bin\Debug\netstandard2.0\GameProject.Data.Common.deps.json
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\bin\Debug\netstandard2.0\GameProject.Data.Common.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\bin\Debug\netstandard2.0\GameProject.Data.Common.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.AssemblyInfoInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.AssemblyInfo.cs
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Common\obj\Debug\netstandard2.0\GameProject.Data.Common.pdb

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<GnsGameProject.Service.Common.UserService.Models.UserModel>
+
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <h1>Список игроков</h1>
+
+    <p>
+        <a asp-action="Create">Создать игрока</a>
+    </p>
+<table class="table">
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoginName)
+            </td>
+              
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Детали", "Details", new { userId = item.Id }) |
+                @Html.ActionLink("Удалить", "Remove", "User", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<GnsGameProject.Service.Common.WordService.Models.WordModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Список слов</h1>
+
+<p>
+    <a asp-action="Create">Добавить новое слово</a>
+</p>
+<table class="table">
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecretWord)
+                <br />
+                <span style="font-size: small">@item.Question</span>
+            </td>
+              
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Удалить", "Remove", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+

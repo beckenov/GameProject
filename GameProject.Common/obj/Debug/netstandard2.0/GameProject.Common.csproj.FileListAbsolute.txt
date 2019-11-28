@@ -1,0 +1,19 @@
+D:\CSharp\GnsGameProject\GnsGameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.csproj.CoreCompileInputs.cache
+D:\CSharp\GnsGameProject\GnsGameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfoInputs.cache
+D:\CSharp\GnsGameProject\GnsGameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfo.cs
+D:\CSharp\GameProject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.deps.json
+D:\CSharp\GameProject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.dll
+D:\CSharp\GameProject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.pdb
+D:\CSharp\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.csproj.CoreCompileInputs.cache
+D:\CSharp\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfoInputs.cache
+D:\CSharp\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfo.cs
+D:\CSharp\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.dll
+D:\CSharp\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.deps.json
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfoInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfo.cs
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.pdb

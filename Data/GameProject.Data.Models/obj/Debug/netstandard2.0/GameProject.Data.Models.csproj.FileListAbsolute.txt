@@ -1,0 +1,20 @@
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.csprojAssemblyReference.cache
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.csproj.CoreCompileInputs.cache
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.AssemblyInfoInputs.cache
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.AssemblyInfo.cs
+D:\CSharp\GameProject\Data\GameProject.Data.Models\bin\Debug\netstandard2.0\GameProject.Data.Models.deps.json
+D:\CSharp\GameProject\Data\GameProject.Data.Models\bin\Debug\netstandard2.0\GameProject.Data.Models.dll
+D:\CSharp\GameProject\Data\GameProject.Data.Models\bin\Debug\netstandard2.0\GameProject.Data.Models.pdb
+D:\CSharp\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.csproj.CoreCompileInputs.cache
+D:\CSharp\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.AssemblyInfoInputs.cache
+D:\CSharp\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.AssemblyInfo.cs
+D:\CSharp\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.dll
+D:\CSharp\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\bin\Debug\netstandard2.0\GameProject.Data.Models.deps.json
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\bin\Debug\netstandard2.0\GameProject.Data.Models.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\bin\Debug\netstandard2.0\GameProject.Data.Models.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.AssemblyInfo.cs
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data.Models\obj\Debug\netstandard2.0\GameProject.Data.Models.pdb
