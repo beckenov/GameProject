@@ -1,0 +1,63 @@
+﻿@model GnsGameProject.Service.Common.WordService.Models.WordModel
+
+
+<h3>Попытайтесь угадать слово по буквам. На угадывание слова целиком дается лишь одна попытка.</h3>
+<br/>
+<h1><span id="question">@Model.Question</span></h1>
+<h2>Ответ: <span id="secretWord">@Model.SecretWord</span></h2>
+<h5>Осталось попыток: <span id="tryCount">@Model.TryCount</span></h5>
+<div class="row">
+
+    <div class="col-md-4">
+        <form id="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="SecretWord" type="hidden"/>
+            <input asp-for="TryCount" type="hidden"/>
+            <div class="form-group">
+                <label class="control-label">Введите предполагаемую букву или слово целиком</label>
+                <input id="letter" name="letter" class="form-control" required/>
+                <span id="letterRequired" class="text-danger">Введите букву или слово</span>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="col-3">
+    <button type="button" class="btn btn-primary " onclick="findWord()">Принять</button>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#letterRequired").hide();
+    });
+    
+    function findWord() {
+        if ($("#letter").val() == "") {
+            $("#letterRequired").show();
+            return;
+        } else {
+            $("#letterRequired").hide();
+        }
+        $.ajax({
+            type: "GET",
+            url: "@Url.Action("CheckWord", "Game")",
+            data: { secretWord: $("#SecretWord").val(),  wordOrLetter: $("#letter").val() },
+            success: function (responce) {
+                if (responce.gameOver) {
+                    var link = "@Url.Action("Results","Game")";
+                    link += "?isWin=" + responce.isWin;
+                    window.location.href = link;
+                } else {
+                    prepareWord(responce.model);
+                } 
+            } 
+        });
+    }
+
+    function prepareWord(word) {
+        $("#SecretWord").val(word.secretWord);
+        $("#secretWord").html(word.secretWord);
+        $("#tryCount").html(word.tryCount);
+        $("#question").html(word.question);
+        $("#letter").val("");
+    }
+</script>

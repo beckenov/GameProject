@@ -1,0 +1,35 @@
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CoreCompileInputs.cache
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfoInputs.cache
+D:\CSharp\GnsGameProject\Data\GnsGameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfo.cs
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.deps.json
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.dll
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.pdb
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Common.dll
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Common.dll
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Models.dll
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Common.pdb
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Common.pdb
+D:\CSharp\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Models.pdb
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csprojAssemblyReference.cache
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CoreCompileInputs.cache
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfoInputs.cache
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfo.cs
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CopyComplete
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.dll
+D:\CSharp\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.deps.json
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Common.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Common.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Models.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Common.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Common.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Models.pdb
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csprojAssemblyReference.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfoInputs.cache
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfo.cs
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CopyComplete
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.dll
+C:\Users\Кутман Бекенов\Downloads\GameProject\GameProject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.pdb
